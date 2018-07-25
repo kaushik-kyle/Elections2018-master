@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "557514359491",
+    "firebase_url": "https://elections2018-master.firebaseio.com",
+    "project_id": "elections2018-master",
+    "storage_bucket": "elections2018-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557514359491:android:6efc8d606b70209b",
+        "android_client_info": {
+          "package_name": "com.arunm619.app.elections2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557514359491-qdpr12geqobg7p0v4hpp0vm3a5l2u5f0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arunm619.app.elections2018",
+            "certificate_hash": "82c5d320cc437348ebfb308266ca7dad378e6dae"
+          }
+        },
+        {
+          "client_id": "557514359491-ffp44js15k81v019dhhtuqsfs0vodse3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0jNh1wyT1U_VWc_dr1v-xPl9lxKW51dE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557514359491-ffp44js15k81v019dhhtuqsfs0vodse3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
